@@ -51,6 +51,31 @@ Recurrent Neural Networks, LSTMs, Implementation of RNN & LSTM, Hyperparameters,
 ### Course Project: [Generate TV Scripts](https://github.com/riched158/SQL-nano/tree/main/proj2) &nbsp;
 Generate a TV script by defining and training a recurrent neural network
 
+## Course 5
+
+### Generative Adversarial Networks
+
+Learn to understand and implement a Deep Convolutional GAN (generative adversarial network) to generate realistic images, with Ian Goodfellow, the inventor of GANs, and Jun-Yan Zhu, the creator of CycleGANs
+
+#### Lessons: 
+GANs, Deep Convolutional GANs, Pix2Pix & CycleGANS, Implementing a CycleGAN
+
+### Course Project: [Generate Faces](https://github.com/riched158/SQL-nano/tree/main/proj2) &nbsp;
+Define two adversarial networks, a generator and discriminator, and train them until you can generate realistic faces.
+
+## Course 6
+
+### Deploying a Model
+
+Train and deploy your own sentiment analysis model using Amazon's SageMaker. Deployment gives you the ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for accessing it from a website.
+
+#### Lessons: 
+Deployment, Sagemaker Model Deployment, Hyperparameter Tuning, Updating a Model
+
+### Course Project: [Generate Faces](https://github.com/riched158/SQL-nano/tree/main/proj2) &nbsp;
+In this project, you will build and deploy a neural network which predicts the sentiment of a user-provided movie review. In addition, you will create a simple web app that uses your deployed model.
+
+
 
 
 
