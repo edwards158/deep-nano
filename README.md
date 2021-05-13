@@ -3,4 +3,4 @@
 This repository contains some my work from the Deep Learning with pytorch Udacity NanoDegree.
 
 
-![Certificate](certif-1.jpg)
+![Certificate](certif-2.jpg)
